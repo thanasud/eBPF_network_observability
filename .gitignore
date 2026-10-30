@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.env
+.env.*
+# Local policies, receipts, sensor snapshots and verification output.
+data/
+# Generated from app.py using the current container cgroup.
+trace.bt
+btf-only/
